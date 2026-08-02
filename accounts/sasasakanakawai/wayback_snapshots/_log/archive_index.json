@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T10:28:02",
+  "last_updated": "2026-08-02T10:28:54",
   "html": {
     "https://web.archive.org/web/20260708181433if_/https://twitter.com/sasasakanakawai/status/2074920084875981004": {
       "status": "done",
@@ -1928,27 +1928,27 @@
       "referenced_by": [
         "20260716130257_twitter_com_sasasakanakawai_status_2077740772586316178.json"
       ],
-      "last_updated": "2026-08-02T10:22:01",
+      "last_updated": "2026-08-02T10:28:49",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260716130257/https://video.twimg.com/amplify_video/2077721486492942336/vid/avc1/1280x720/HeJqi0oqUYq4OWl7.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2077721486463471616/vid/avc1/720x1280/iRoXqK82ed5efUc0.mp4": {
       "status": "failed_all",
       "referenced_by": [
         "20260716130257_twitter_com_sasasakanakawai_status_2077740772586316178.json"
       ],
-      "last_updated": "2026-08-02T10:22:03",
+      "last_updated": "2026-08-02T10:28:51",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260716130257/https://video.twimg.com/amplify_video/2077721486463471616/vid/avc1/720x1280/iRoXqK82ed5efUc0.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2077357742122237952/vid/avc1/720x1280/XqYR9THfZ4aRD80S.mp4": {
       "status": "failed_all",
       "referenced_by": [
         "20260717080308_twitter_com_sasasakanakawai_status_2078027709327044978.json"
       ],
-      "last_updated": "2026-08-02T10:22:02",
+      "last_updated": "2026-08-02T10:28:54",
       "last_reason": "HTTPError: 403 Client Error: Forbidden for url: https://web.archive.org/web/20260721211548/https://video.twimg.com/amplify_video/2077357742122237952/vid/avc1/720x1280/XqYR9THfZ4aRD80S.mp4",
-      "miss_count": 2
+      "miss_count": 3
     }
   },
   "avatars": {
