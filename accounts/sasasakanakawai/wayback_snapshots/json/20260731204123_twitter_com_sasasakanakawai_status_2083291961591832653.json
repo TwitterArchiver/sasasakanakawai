@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066490052587438080",
+    "conversation_id": "2083262538951844258",
+    "created_at": "2026-07-31T20:41:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T21:41:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083291961591832653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1671063101989584901",
+          "start": 0,
+          "username": "Kami14545"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083291961591832653",
+    "in_reply_to_user_id": "1671063101989584901",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083276230795858322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kami14545 ？？我收不到啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066490052587438080",
+        "conversation_id": "2083262538951844258",
+        "created_at": "2026-07-31T20:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T21:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083291961591832653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1671063101989584901",
+              "start": 0,
+              "username": "Kami14545"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083291961591832653",
+        "in_reply_to_user_id": "1671063101989584901",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083276230795858322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kami14545 ？？我收不到啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671063101989584901",
+        "conversation_id": "2083262538951844258",
+        "created_at": "2026-07-31T19:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T20:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083276230795858322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2066490052587438080",
+              "start": 0,
+              "username": "sasasakanakawai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083276230795858322",
+        "in_reply_to_user_id": "2066490052587438080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083262538951844258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sasasakanakawai 来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 同类互fo大欢迎 喜欢我可怜我心疼我可以给我钱🚪52 伤口定制dm",
+        "id": "2066490052587438080",
+        "location": "KOSMO",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2077023555649175570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 55,
+          "like_count": 14,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 168
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-20T07:51:33.000Z",
+        "description": "人类是被欲望驱使的机器",
+        "id": "1671063101989584901",
+        "name": "kami",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671063223112732672/DQySuCYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 60,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 146
+        },
+        "url": "",
+        "username": "Kami14545",
+        "verified": false
+      }
+    ]
+  }
+}

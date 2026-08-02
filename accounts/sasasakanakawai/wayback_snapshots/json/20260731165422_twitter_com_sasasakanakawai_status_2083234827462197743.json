@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066490052587438080",
+    "conversation_id": "2083234827462197743",
+    "created_at": "2026-07-31T16:54:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T17:54:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083234827462197743"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083234827462197743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们不要药啪了你们应该戒断的时候啪 我感觉我普瑞戒断浑身变敏感了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066490052587438080",
+        "conversation_id": "2083234827462197743",
+        "created_at": "2026-07-31T16:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083234827462197743"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083234827462197743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们不要药啪了你们应该戒断的时候啪 我感觉我普瑞戒断浑身变敏感了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 同类互fo大欢迎 喜欢我可怜我心疼我可以给我钱🚪52 伤口定制dm",
+        "id": "2066490052587438080",
+        "location": "KOSMO",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2077023555649175570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 54,
+          "like_count": 14,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 162
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      }
+    ]
+  }
+}
