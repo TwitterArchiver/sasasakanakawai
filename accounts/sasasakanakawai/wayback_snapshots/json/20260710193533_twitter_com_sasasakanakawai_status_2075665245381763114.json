@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066490052587438080",
+    "conversation_id": "2075665245381763114",
+    "created_at": "2026-07-10T19:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T20:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075665245381763114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1547812257676963840",
+          "start": 3,
+          "username": "YLS69979546"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075665245381763114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075246553057644773",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YLS69979546: 完蛋了，不磕药不吸毒我不知道干什么了，快感缺失，对啥都提不起兴趣，我感觉我没毒瘾，唯二成瘾过的物质都被我戒了，但是没有药物的生活太无聊太操蛋了，甚至药物戒断我都觉得能让生活变丰富一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066490052587438080",
+        "conversation_id": "2075665245381763114",
+        "created_at": "2026-07-10T19:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T20:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075665245381763114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1547812257676963840",
+              "start": 3,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075665245381763114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075246553057644773",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YLS69979546: 完蛋了，不磕药不吸毒我不知道干什么了，快感缺失，对啥都提不起兴趣，我感觉我没毒瘾，唯二成瘾过的物质都被我戒了，但是没有药物的生活太无聊太操蛋了，甚至药物戒断我都觉得能让生活变丰富一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2075246553057644773",
+        "created_at": "2026-07-09T15:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075246553057644773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075246553057644773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2527,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "完蛋了，不磕药不吸毒我不知道干什么了，快感缺失，对啥都提不起兴趣，我感觉我没毒瘾，唯二成瘾过的物质都被我戒了，但是没有药物的生活太无聊太操蛋了，甚至药物戒断我都觉得能让生活变丰富一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 互fo互转请dm 喜欢我可怜我心疼我可以给我钱",
+        "id": "2066490052587438080",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2075309890269245455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 5,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 126,
+          "like_count": 7260,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1284
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

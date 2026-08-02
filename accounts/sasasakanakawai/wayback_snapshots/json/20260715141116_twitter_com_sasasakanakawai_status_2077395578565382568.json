@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066490052587438080",
+    "conversation_id": "2076643338800054681",
+    "created_at": "2026-07-15T14:11:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T15:11:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077395578565382568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1799871279782330368",
+          "start": 0,
+          "username": "chanrick270881"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077395578565382568",
+    "in_reply_to_user_id": "1799871279782330368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077087747865751564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chanrick270881 偷警哥的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066490052587438080",
+        "conversation_id": "2076643338800054681",
+        "created_at": "2026-07-15T14:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077395578565382568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1799871279782330368",
+              "start": 0,
+              "username": "chanrick270881"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077395578565382568",
+        "in_reply_to_user_id": "1799871279782330368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077087747865751564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chanrick270881 偷警哥的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799871279782330368",
+        "conversation_id": "2076643338800054681",
+        "created_at": "2026-07-14T17:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077087747865751564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2066490052587438080",
+              "start": 0,
+              "username": "sasasakanakawai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077087747865751564",
+        "in_reply_to_user_id": "2066490052587438080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076643338800054681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sasasakanakawai 我去你衣服哪里来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 互fo互转请dm 喜欢我可怜我心疼我可以给我钱🚪52 伤口定制dm我 @lhhy2711 找不到我来这里",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "lhhy2711"
+              }
+            ]
+          }
+        },
+        "id": "2066490052587438080",
+        "location": "KOSMO",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2077023555649175570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 37,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T18:29:00.000Z",
+        "description": "noting is here",
+        "id": "1799871279782330368",
+        "name": "劝晚风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075255004429205505/jEULioy5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 19,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 323
+        },
+        "url": "",
+        "username": "chanrick270881",
+        "verified": false
+      }
+    ]
+  }
+}

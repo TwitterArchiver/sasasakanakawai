@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075606886658048001"
+      ],
+      "media_source_tweet_id": [
+        "2075606910250926238"
+      ]
+    },
+    "author_id": "2066490052587438080",
+    "conversation_id": "2075607187897065540",
+    "created_at": "2026-07-10T15:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T16:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075607187897065540"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "自伤"
+        },
+        {
+          "end": 37,
+          "start": 32,
+          "tag": "自傷行為"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2075243492159492097",
+          "start": 3,
+          "username": "inoueshio049"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BmFNYvMX5w",
+          "end": 61,
+          "expanded_url": "https://x.com/inoueshio049/status/2075606910250926238/photo/1",
+          "media_key": "3_2075606886658048001",
+          "start": 38,
+          "url": "https://t.co/BmFNYvMX5w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075607187897065540",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075606910250926238",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @inoueshio049: 很久很久以前。。。 #自伤 #自傷行為 https://t.co/BmFNYvMX5w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2133,
+        "media_key": "3_2075606886658048001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4Jd2SbgAE7ArJ.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075606886658048001"
+          ],
+          "media_source_tweet_id": [
+            "2075606910250926238"
+          ]
+        },
+        "author_id": "2066490052587438080",
+        "conversation_id": "2075607187897065540",
+        "created_at": "2026-07-10T15:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T16:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075607187897065540"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "自伤"
+            },
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "自傷行為"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2075243492159492097",
+              "start": 3,
+              "username": "inoueshio049"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BmFNYvMX5w",
+              "end": 61,
+              "expanded_url": "https://x.com/inoueshio049/status/2075606910250926238/photo/1",
+              "media_key": "3_2075606886658048001",
+              "start": 38,
+              "url": "https://t.co/BmFNYvMX5w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075607187897065540",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075606910250926238",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @inoueshio049: 很久很久以前。。。 #自伤 #自傷行為 https://t.co/BmFNYvMX5w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075606886658048001"
+          ]
+        },
+        "author_id": "2075243492159492097",
+        "conversation_id": "2075606910250926238",
+        "created_at": "2026-07-10T15:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T16:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075606910250926238"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "自伤"
+            },
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "自傷行為"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BmFNYvMX5w",
+              "end": 43,
+              "expanded_url": "https://x.com/inoueshio049/status/2075606910250926238/photo/1",
+              "media_key": "3_2075606886658048001",
+              "start": 20,
+              "url": "https://t.co/BmFNYvMX5w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075606910250926238",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "很久很久以前。。。 #自伤 #自傷行為 https://t.co/BmFNYvMX5w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 互fo互转请dm 喜欢我可怜我心疼我可以给我钱",
+        "id": "2066490052587438080",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2075309890269245455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 28,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-09T15:40:51.000Z",
+        "description": "🚪30好友位40开放pyq，互fo互转可以dm，不要骚扰我",
+        "id": "2075243492159492097",
+        "name": "shio",
+        "pinned_tweet_id": "2075313288037191851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075243948629749760/395555Ny_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 10,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "inoueshio049",
+        "verified": false
+      }
+    ]
+  }
+}

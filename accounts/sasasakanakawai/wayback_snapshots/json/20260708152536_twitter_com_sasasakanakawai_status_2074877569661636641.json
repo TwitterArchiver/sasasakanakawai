@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074877560220160000"
+      ]
+    },
+    "author_id": "2066490052587438080",
+    "conversation_id": "2074877569661636641",
+    "created_at": "2026-07-08T15:25:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T16:25:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074877569661636641"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 9,
+          "start": 6,
+          "tag": "自伤"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/irL3ve4S2X",
+          "end": 33,
+          "expanded_url": "https://x.com/sasasakanakawai/status/2074877569661636641/photo/1",
+          "media_key": "3_2074877560220160000",
+          "start": 10,
+          "url": "https://t.co/irL3ve4S2X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074877569661636641",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "眼睛。眼睛。#自伤 https://t.co/irL3ve4S2X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1282,
+        "media_key": "3_2074877560220160000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtyJdlaEAAQtHu.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074877560220160000"
+          ]
+        },
+        "author_id": "2066490052587438080",
+        "conversation_id": "2074877569661636641",
+        "created_at": "2026-07-08T15:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074877569661636641"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "自伤"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/irL3ve4S2X",
+              "end": 33,
+              "expanded_url": "https://x.com/sasasakanakawai/status/2074877569661636641/photo/1",
+              "media_key": "3_2074877560220160000",
+              "start": 10,
+              "url": "https://t.co/irL3ve4S2X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074877569661636641",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "眼睛。眼睛。#自伤 https://t.co/irL3ve4S2X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "我死了",
+        "id": "2066490052587438080",
+        "name": "sasasakanana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066490460592545792/9gr8suI5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 23,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      }
+    ]
+  }
+}

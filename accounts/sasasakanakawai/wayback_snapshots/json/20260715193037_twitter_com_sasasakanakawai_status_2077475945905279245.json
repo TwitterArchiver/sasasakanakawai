@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066490052587438080",
+    "conversation_id": "2077475945905279245",
+    "created_at": "2026-07-15T19:30:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T20:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077475945905279245"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/inoueshio049/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/inoueshio049/status/2075313288037191851",
+          "start": 11,
+          "url": "https://t.co/m33m79etU8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077475945905279245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075313288037191851",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最好都和我妈妈互fo https://t.co/m33m79etU8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2075313285944254464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMz-cCZbIAAmWOW.jpg",
+        "width": 768
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2075313285910659072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMz-cCRagAAbm9Z.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066490052587438080",
+        "conversation_id": "2077475945905279245",
+        "created_at": "2026-07-15T19:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T20:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077475945905279245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/inoueshio049/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/inoueshio049/status/2075313288037191851",
+              "start": 11,
+              "url": "https://t.co/m33m79etU8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077475945905279245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075313288037191851",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最好都和我妈妈互fo https://t.co/m33m79etU8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075313285944254464",
+            "3_2075313285910659072"
+          ]
+        },
+        "author_id": "2075243492159492097",
+        "conversation_id": "2075313288037191851",
+        "created_at": "2026-07-09T20:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T21:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075313288037191851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CLeqOrrhcB",
+              "end": 52,
+              "expanded_url": "https://x.com/inoueshio049/status/2075313288037191851/photo/1",
+              "media_key": "3_2075313285944254464",
+              "start": 29,
+              "url": "https://t.co/CLeqOrrhcB"
+            },
+            {
+              "display_url": "pic.x.com/CLeqOrrhcB",
+              "end": 52,
+              "expanded_url": "https://x.com/inoueshio049/status/2075313288037191851/photo/1",
+              "media_key": "3_2075313285910659072",
+              "start": 29,
+              "url": "https://t.co/CLeqOrrhcB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075313288037191851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1112,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "叫我什么都可以，互fo互转大欢迎，伤口定制dm，别骚扰我 https://t.co/CLeqOrrhcB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 互fo互转请dm 喜欢我可怜我心疼我可以给我钱🚪52 伤口定制dm我 @lhhy2711 来这里看我血图",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "lhhy2711"
+              }
+            ]
+          }
+        },
+        "id": "2066490052587438080",
+        "location": "KOSMO",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2077023555649175570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 41,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 114
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-09T15:40:51.000Z",
+        "description": "🚪30好友位40开放pyq，互fo互转可以dm，不是黄推骚扰我滚",
+        "id": "2075243492159492097",
+        "name": "shio",
+        "pinned_tweet_id": "2075313288037191851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075243948629749760/395555Ny_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 17,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "inoueshio049",
+        "verified": false
+      }
+    ]
+  }
+}

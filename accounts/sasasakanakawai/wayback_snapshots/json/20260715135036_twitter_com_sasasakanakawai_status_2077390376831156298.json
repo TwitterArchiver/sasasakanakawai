@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077390362218479616"
+      ]
+    },
+    "author_id": "2066490052587438080",
+    "conversation_id": "2077390376831156298",
+    "created_at": "2026-07-15T13:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T14:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077390376831156298"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 11,
+          "start": 5,
+          "tag": "地雷系女子"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1OqkglehOY",
+          "end": 35,
+          "expanded_url": "https://x.com/sasasakanakawai/status/2077390376831156298/photo/1",
+          "media_key": "3_2077390362218479616",
+          "start": 12,
+          "url": "https://t.co/1OqkglehOY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077390376831156298",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "懂得都懂，#地雷系女子 https://t.co/1OqkglehOY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1081,
+        "media_key": "3_2077390362218479616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRfhyfaQAA9rMs.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077390362218479616"
+          ]
+        },
+        "author_id": "2066490052587438080",
+        "conversation_id": "2077390376831156298",
+        "created_at": "2026-07-15T13:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T14:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077390376831156298"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 5,
+              "tag": "地雷系女子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1OqkglehOY",
+              "end": 35,
+              "expanded_url": "https://x.com/sasasakanakawai/status/2077390376831156298/photo/1",
+              "media_key": "3_2077390362218479616",
+              "start": 12,
+              "url": "https://t.co/1OqkglehOY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077390376831156298",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "懂得都懂，#地雷系女子 https://t.co/1OqkglehOY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 互fo互转请dm 喜欢我可怜我心疼我可以给我钱🚪52 伤口定制dm我 @lhhy2711 找不到我来这里",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "lhhy2711"
+              }
+            ]
+          }
+        },
+        "id": "2066490052587438080",
+        "location": "KOSMO",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2077023555649175570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 36,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      }
+    ]
+  }
+}

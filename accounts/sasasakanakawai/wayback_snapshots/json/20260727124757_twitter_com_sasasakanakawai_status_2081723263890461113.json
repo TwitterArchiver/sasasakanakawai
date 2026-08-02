@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081722614138187777"
+      ]
+    },
+    "author_id": "2066490052587438080",
+    "conversation_id": "2081723263890461113",
+    "created_at": "2026-07-27T12:47:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T13:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081723263890461113"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jp5Lx7g8eM",
+          "end": 56,
+          "expanded_url": "https://x.com/sasasakanakawai/status/2081723263890461113/photo/1",
+          "media_key": "3_2081722614138187777",
+          "start": 33,
+          "url": "https://t.co/Jp5Lx7g8eM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081723263890461113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "假的假的全都是假的all fake特效化妆\n三人在KTV就会这样 https://t.co/Jp5Lx7g8eM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2081722614138187777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPDsCiasAEKQXx.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081722614138187777"
+          ]
+        },
+        "author_id": "2066490052587438080",
+        "conversation_id": "2081723263890461113",
+        "created_at": "2026-07-27T12:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081723263890461113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jp5Lx7g8eM",
+              "end": 56,
+              "expanded_url": "https://x.com/sasasakanakawai/status/2081723263890461113/photo/1",
+              "media_key": "3_2081722614138187777",
+              "start": 33,
+              "url": "https://t.co/Jp5Lx7g8eM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081723263890461113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "假的假的全都是假的all fake特效化妆\n三人在KTV就会这样 https://t.co/Jp5Lx7g8eM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 同类互fo大欢迎 喜欢我可怜我心疼我可以给我钱🚪52 伤口定制dm",
+        "id": "2066490052587438080",
+        "location": "KOSMO",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2077023555649175570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 54,
+          "like_count": 14,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 150
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      }
+    ]
+  }
+}

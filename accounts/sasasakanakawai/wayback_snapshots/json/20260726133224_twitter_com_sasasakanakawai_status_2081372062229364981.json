@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066490052587438080",
+    "conversation_id": "2078136103593558415",
+    "created_at": "2026-07-26T13:32:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T14:32:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081372062229364981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1463718627287318528",
+          "start": 0,
+          "username": "Yuna211q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081372062229364981",
+    "in_reply_to_user_id": "1463718627287318528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081332896611307967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuna211q 甘草片死妈了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066490052587438080",
+        "conversation_id": "2078136103593558415",
+        "created_at": "2026-07-26T13:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081372062229364981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1463718627287318528",
+              "start": 0,
+              "username": "Yuna211q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081372062229364981",
+        "in_reply_to_user_id": "1463718627287318528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081332896611307967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuna211q 甘草片死妈了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1463718627287318528",
+        "conversation_id": "2078136103593558415",
+        "created_at": "2026-07-26T10:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081332896611307967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2066490052587438080",
+              "start": 0,
+              "username": "sasasakanakawai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081332896611307967",
+        "in_reply_to_user_id": "2066490052587438080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078136103593558415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sasasakanakawai 甘草片死妈了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 同类互fo大欢迎 喜欢我可怜我心疼我可以给我钱🚪52 伤口定制dm",
+        "id": "2066490052587438080",
+        "location": "KOSMO",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2077023555649175570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 49,
+          "like_count": 13,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 140
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-25T03:58:24.000Z",
+        "description": "🚪88 泛性恋 od 自残 心境障碍｜双相情感障碍混合型｜广泛性焦虑障碍｜C- PTSD/PTSD ｜边缘型人格障碍｜人格/现实解体｜认知障碍",
+        "id": "1463718627287318528",
+        "location": "距您≦100m",
+        "name": "Yuna",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597513750055047169/mG4qlnA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3576,
+          "following_count": 51,
+          "like_count": 1387,
+          "listed_count": 3,
+          "media_count": 176,
+          "tweet_count": 1622
+        },
+        "url": "",
+        "username": "Yuna211q",
+        "verified": false
+      }
+    ]
+  }
+}

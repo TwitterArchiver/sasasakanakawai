@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075202217444077568"
+      ]
+    },
+    "author_id": "2066490052587438080",
+    "conversation_id": "2075202228886110645",
+    "created_at": "2026-07-09T12:55:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:55:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075202228886110645"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 11,
+          "start": 8,
+          "tag": "自伤"
+        },
+        {
+          "end": 17,
+          "start": 12,
+          "tag": "自傷行為"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cqrpSQhmXj",
+          "end": 41,
+          "expanded_url": "https://x.com/sasasakanakawai/status/2075202228886110645/photo/1",
+          "media_key": "3_2075202217444077568",
+          "start": 18,
+          "url": "https://t.co/cqrpSQhmXj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075202228886110645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "拍了个很色情的 #自伤 #自傷行為 https://t.co/cqrpSQhmXj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3068,
+        "media_key": "3_2075202217444077568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyZa__bcAASg4a.jpg",
+        "width": 3042
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075202217444077568"
+          ]
+        },
+        "author_id": "2066490052587438080",
+        "conversation_id": "2075202228886110645",
+        "created_at": "2026-07-09T12:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075202228886110645"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "自伤"
+            },
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "自傷行為"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cqrpSQhmXj",
+              "end": 41,
+              "expanded_url": "https://x.com/sasasakanakawai/status/2075202228886110645/photo/1",
+              "media_key": "3_2075202217444077568",
+              "start": 18,
+              "url": "https://t.co/cqrpSQhmXj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075202228886110645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拍了个很色情的 #自伤 #自傷行為 https://t.co/cqrpSQhmXj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "我死了",
+        "id": "2066490052587438080",
+        "name": "酒酿小梨子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074879135378558976/Wov8JHCC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 23,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      }
+    ]
+  }
+}

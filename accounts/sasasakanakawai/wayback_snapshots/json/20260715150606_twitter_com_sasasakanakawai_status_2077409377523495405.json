@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077393044186558464"
+      ],
+      "media_source_tweet_id": [
+        "2077393061316083855"
+      ]
+    },
+    "author_id": "2066490052587438080",
+    "conversation_id": "2077409377523495405",
+    "created_at": "2026-07-15T15:06:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T16:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077409377523495405"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 14,
+          "tag": "自伤"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2076269187379634176",
+          "start": 3,
+          "username": "lhhy2711"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LUPtCspGfO",
+          "end": 47,
+          "expanded_url": "https://x.com/lhhy2711/status/2077393061316083855/photo/1",
+          "media_key": "3_2077393044186558464",
+          "start": 24,
+          "url": "https://t.co/LUPtCspGfO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077409377523495405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077393061316083855",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lhhy2711: #自伤 别举报我。 https://t.co/LUPtCspGfO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077393044186558464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRh95mbcAAKTLt.jpg",
+        "width": 1619
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077393044186558464"
+          ],
+          "media_source_tweet_id": [
+            "2077393061316083855"
+          ]
+        },
+        "author_id": "2066490052587438080",
+        "conversation_id": "2077409377523495405",
+        "created_at": "2026-07-15T15:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077409377523495405"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "自伤"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2076269187379634176",
+              "start": 3,
+              "username": "lhhy2711"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LUPtCspGfO",
+              "end": 47,
+              "expanded_url": "https://x.com/lhhy2711/status/2077393061316083855/photo/1",
+              "media_key": "3_2077393044186558464",
+              "start": 24,
+              "url": "https://t.co/LUPtCspGfO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077409377523495405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077393061316083855",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lhhy2711: #自伤 别举报我。 https://t.co/LUPtCspGfO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077393044186558464"
+          ]
+        },
+        "author_id": "2076269187379634176",
+        "conversation_id": "2077393061316083855",
+        "created_at": "2026-07-15T14:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077393061316083855"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "自伤"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LUPtCspGfO",
+              "end": 33,
+              "expanded_url": "https://x.com/lhhy2711/status/2077393061316083855/photo/1",
+              "media_key": "3_2077393044186558464",
+              "start": 10,
+              "url": "https://t.co/LUPtCspGfO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077393061316083855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#自伤 别举报我。 https://t.co/LUPtCspGfO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 互fo互转请dm 喜欢我可怜我心疼我可以给我钱🚪52 伤口定制dm我 @lhhy2711 来这里看我血图",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "lhhy2711"
+              }
+            ]
+          }
+        },
+        "id": "2066490052587438080",
+        "location": "KOSMO",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2077023555649175570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 37,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 102
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-12T11:36:34.000Z",
+        "description": "爱发啥发啥",
+        "id": "2076269187379634176",
+        "location": "REAL WORLD",
+        "name": "逆無",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076860250440028160/lflMiMl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 9,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "lhhy2711",
+        "verified": false
+      }
+    ]
+  }
+}

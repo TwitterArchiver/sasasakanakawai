@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066490052587438080",
+    "conversation_id": "2076441167047332287",
+    "created_at": "2026-07-13T11:17:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T12:17:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076626976282915185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1694012668359634944",
+          "start": 0,
+          "username": "yeyvv520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076626976282915185",
+    "in_reply_to_user_id": "1694012668359634944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076441167047332287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeyvv520 我血图也是全推给外国人。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076441159543721984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNEAO6-akAA-xd_.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066490052587438080",
+        "conversation_id": "2076441167047332287",
+        "created_at": "2026-07-13T11:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076626976282915185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1694012668359634944",
+              "start": 0,
+              "username": "yeyvv520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076626976282915185",
+        "in_reply_to_user_id": "1694012668359634944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076441167047332287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeyvv520 我血图也是全推给外国人。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076441159543721984"
+          ]
+        },
+        "author_id": "1694012668359634944",
+        "conversation_id": "2076441167047332287",
+        "created_at": "2026-07-12T22:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T23:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076441167047332287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uubJUIuzvJ",
+              "end": 60,
+              "expanded_url": "https://x.com/yeyvv520/status/2076441167047332287/photo/1",
+              "media_key": "3_2076441159543721984",
+              "start": 37,
+              "url": "https://t.co/uubJUIuzvJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076441167047332287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 540,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "令人感到恐惧的流量\n为什么这帖子流量这么大\n为什么推流对象好多外国人（） https://t.co/uubJUIuzvJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 互fo互转请dm 喜欢我可怜我心疼我可以给我钱 @lhhy2711 找不到我来这里",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "lhhy2711"
+              }
+            ]
+          }
+        },
+        "id": "2066490052587438080",
+        "location": "KOSMO",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2075309890269245455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 17,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T15:44:46.000Z",
+        "description": "不线下  会互关同类\nhrt2025.3.15  出柜，家长反对吃糖   已经断糖了 \n精神很稳定 不割手不od \n会偶尔发负能量，慎关注\n努力攒钱ing\n2008.3.9北京\n减肥ing\n💞💞💞💞💞💞💞💞💞💞💞💞💞💞💞💞💞💞💞💞💞💞💞💞💞💞@Felicia1337",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 121,
+                "username": "Felicia1337"
+              }
+            ]
+          }
+        },
+        "id": "1694012668359634944",
+        "name": "叶雨薇",
+        "pinned_tweet_id": "1932347145019130124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884288106343587840/Q7SI6jgn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 1759,
+          "like_count": 8584,
+          "listed_count": 2,
+          "media_count": 224,
+          "tweet_count": 1714
+        },
+        "url": "",
+        "username": "yeyvv520",
+        "verified": false
+      }
+    ]
+  }
+}

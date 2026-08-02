@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077750079142916096",
+        "3_2077750089486131200",
+        "3_2077750103956492288"
+      ]
+    },
+    "author_id": "2066490052587438080",
+    "conversation_id": "2077750115666911420",
+    "created_at": "2026-07-16T13:40:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T14:40:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077750115666911420"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uvk4NywiFn",
+          "end": 29,
+          "expanded_url": "https://x.com/sasasakanakawai/status/2077750115666911420/photo/1",
+          "media_key": "3_2077750079142916096",
+          "start": 6,
+          "url": "https://t.co/uvk4NywiFn"
+        },
+        {
+          "display_url": "pic.x.com/uvk4NywiFn",
+          "end": 29,
+          "expanded_url": "https://x.com/sasasakanakawai/status/2077750115666911420/photo/1",
+          "media_key": "3_2077750089486131200",
+          "start": 6,
+          "url": "https://t.co/uvk4NywiFn"
+        },
+        {
+          "display_url": "pic.x.com/uvk4NywiFn",
+          "end": 29,
+          "expanded_url": "https://x.com/sasasakanakawai/status/2077750115666911420/photo/1",
+          "media_key": "3_2077750103956492288",
+          "start": 6,
+          "url": "https://t.co/uvk4NywiFn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077750115666911420",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "忆往昔…… https://t.co/uvk4NywiFn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1020,
+        "media_key": "3_2077750079142916096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWmsEdacAArIbA.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077750089486131200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWmsq_bYAAKiN8.jpg",
+        "width": 1831
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077750103956492288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWmtg5bkAA-tu2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077750079142916096",
+            "3_2077750089486131200",
+            "3_2077750103956492288"
+          ]
+        },
+        "author_id": "2066490052587438080",
+        "conversation_id": "2077750115666911420",
+        "created_at": "2026-07-16T13:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077750115666911420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uvk4NywiFn",
+              "end": 29,
+              "expanded_url": "https://x.com/sasasakanakawai/status/2077750115666911420/photo/1",
+              "media_key": "3_2077750079142916096",
+              "start": 6,
+              "url": "https://t.co/uvk4NywiFn"
+            },
+            {
+              "display_url": "pic.x.com/uvk4NywiFn",
+              "end": 29,
+              "expanded_url": "https://x.com/sasasakanakawai/status/2077750115666911420/photo/1",
+              "media_key": "3_2077750089486131200",
+              "start": 6,
+              "url": "https://t.co/uvk4NywiFn"
+            },
+            {
+              "display_url": "pic.x.com/uvk4NywiFn",
+              "end": 29,
+              "expanded_url": "https://x.com/sasasakanakawai/status/2077750115666911420/photo/1",
+              "media_key": "3_2077750103956492288",
+              "start": 6,
+              "url": "https://t.co/uvk4NywiFn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077750115666911420",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "忆往昔…… https://t.co/uvk4NywiFn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 互fo互转请dm 喜欢我可怜我心疼我可以给我钱🚪52 伤口定制dm我 @lhhy2711 来这里看我血图",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "lhhy2711"
+              }
+            ]
+          }
+        },
+        "id": "2066490052587438080",
+        "location": "KOSMO",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2077738340389151063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 45,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 126
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      }
+    ]
+  }
+}

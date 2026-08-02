@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076877030373908480"
+      ]
+    },
+    "author_id": "2066490052587438080",
+    "conversation_id": "2076877069875806714",
+    "created_at": "2026-07-14T03:50:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T04:50:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076877069875806714"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LQ4lzoTe6D",
+          "end": 40,
+          "expanded_url": "https://x.com/sasasakanakawai/status/2076877069875806714/photo/1",
+          "media_key": "3_2076877030373908480",
+          "start": 17,
+          "url": "https://t.co/LQ4lzoTe6D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076877069875806714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "三个人出门一起坐后座坐姿就这样： https://t.co/LQ4lzoTe6D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076877030373908480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKMp8Wa4AAkCtc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076877030373908480"
+          ]
+        },
+        "author_id": "2066490052587438080",
+        "conversation_id": "2076877069875806714",
+        "created_at": "2026-07-14T03:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076877069875806714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LQ4lzoTe6D",
+              "end": 40,
+              "expanded_url": "https://x.com/sasasakanakawai/status/2076877069875806714/photo/1",
+              "media_key": "3_2076877030373908480",
+              "start": 17,
+              "url": "https://t.co/LQ4lzoTe6D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076877069875806714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三个人出门一起坐后座坐姿就这样： https://t.co/LQ4lzoTe6D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 互fo互转请dm 喜欢我可怜我心疼我可以给我钱🚪52 伤口定制dm我 @lhhy2711 找不到我来这里",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "lhhy2711"
+              }
+            ]
+          }
+        },
+        "id": "2066490052587438080",
+        "location": "KOSMO",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2075309890269245455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 34,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      }
+    ]
+  }
+}

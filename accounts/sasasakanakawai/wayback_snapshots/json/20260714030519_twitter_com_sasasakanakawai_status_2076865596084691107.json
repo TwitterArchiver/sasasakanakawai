@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076865584244068352"
+      ]
+    },
+    "author_id": "2066490052587438080",
+    "conversation_id": "2076865596084691107",
+    "created_at": "2026-07-14T03:05:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T04:05:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076865596084691107"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3vAqBUO2uQ",
+          "end": 33,
+          "expanded_url": "https://x.com/sasasakanakawai/status/2076865596084691107/photo/1",
+          "media_key": "3_2076865584244068352",
+          "start": 10,
+          "url": "https://t.co/3vAqBUO2uQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076865596084691107",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "三胞胎概念贯彻到底 https://t.co/3vAqBUO2uQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2076865584244068352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKCPsMaEAAQVrJ.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076865584244068352"
+          ]
+        },
+        "author_id": "2066490052587438080",
+        "conversation_id": "2076865596084691107",
+        "created_at": "2026-07-14T03:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076865596084691107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3vAqBUO2uQ",
+              "end": 33,
+              "expanded_url": "https://x.com/sasasakanakawai/status/2076865596084691107/photo/1",
+              "media_key": "3_2076865584244068352",
+              "start": 10,
+              "url": "https://t.co/3vAqBUO2uQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076865596084691107",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三胞胎概念贯彻到底 https://t.co/3vAqBUO2uQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 互fo互转请dm 喜欢我可怜我心疼我可以给我钱🚪52 伤口定制dm我 @lhhy2711 找不到我来这里",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "lhhy2711"
+              }
+            ]
+          }
+        },
+        "id": "2066490052587438080",
+        "location": "KOSMO",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2075309890269245455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 34,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      }
+    ]
+  }
+}

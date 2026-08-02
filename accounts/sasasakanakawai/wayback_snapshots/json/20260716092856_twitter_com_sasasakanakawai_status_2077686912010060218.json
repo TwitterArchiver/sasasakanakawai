@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077686885879861248",
+        "3_2077686896021712896",
+        "3_2077686904481525760"
+      ]
+    },
+    "author_id": "2066490052587438080",
+    "conversation_id": "2077686912010060218",
+    "created_at": "2026-07-16T09:28:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T10:28:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077686912010060218"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "地雷系女子"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vT7LPY8BtB",
+          "end": 40,
+          "expanded_url": "https://x.com/sasasakanakawai/status/2077686912010060218/photo/1",
+          "media_key": "3_2077686885879861248",
+          "start": 17,
+          "url": "https://t.co/vT7LPY8BtB"
+        },
+        {
+          "display_url": "pic.x.com/vT7LPY8BtB",
+          "end": 40,
+          "expanded_url": "https://x.com/sasasakanakawai/status/2077686912010060218/photo/1",
+          "media_key": "3_2077686896021712896",
+          "start": 17,
+          "url": "https://t.co/vT7LPY8BtB"
+        },
+        {
+          "display_url": "pic.x.com/vT7LPY8BtB",
+          "end": 40,
+          "expanded_url": "https://x.com/sasasakanakawai/status/2077686912010060218/photo/1",
+          "media_key": "3_2077686904481525760",
+          "start": 17,
+          "url": "https://t.co/vT7LPY8BtB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077686912010060218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#地雷系女子 什么啊o大了搞不清 https://t.co/vT7LPY8BtB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1428,
+        "media_key": "3_2077686885879861248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVtNvNbUAAlIfu.jpg",
+        "width": 1072
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2077686896021712896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVtOU_bsAAUn3k.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2077686904481525760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVtO0gaMAA1Esc.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077686885879861248",
+            "3_2077686896021712896",
+            "3_2077686904481525760"
+          ]
+        },
+        "author_id": "2066490052587438080",
+        "conversation_id": "2077686912010060218",
+        "created_at": "2026-07-16T09:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T10:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077686912010060218"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "地雷系女子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vT7LPY8BtB",
+              "end": 40,
+              "expanded_url": "https://x.com/sasasakanakawai/status/2077686912010060218/photo/1",
+              "media_key": "3_2077686885879861248",
+              "start": 17,
+              "url": "https://t.co/vT7LPY8BtB"
+            },
+            {
+              "display_url": "pic.x.com/vT7LPY8BtB",
+              "end": 40,
+              "expanded_url": "https://x.com/sasasakanakawai/status/2077686912010060218/photo/1",
+              "media_key": "3_2077686896021712896",
+              "start": 17,
+              "url": "https://t.co/vT7LPY8BtB"
+            },
+            {
+              "display_url": "pic.x.com/vT7LPY8BtB",
+              "end": 40,
+              "expanded_url": "https://x.com/sasasakanakawai/status/2077686912010060218/photo/1",
+              "media_key": "3_2077686904481525760",
+              "start": 17,
+              "url": "https://t.co/vT7LPY8BtB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077686912010060218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#地雷系女子 什么啊o大了搞不清 https://t.co/vT7LPY8BtB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 互fo互转请dm 喜欢我可怜我心疼我可以给我钱🚪52 伤口定制dm我 @lhhy2711 来这里看我血图",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "lhhy2711"
+              }
+            ]
+          }
+        },
+        "id": "2066490052587438080",
+        "location": "KOSMO",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2077023555649175570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 43,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 119
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      }
+    ]
+  }
+}

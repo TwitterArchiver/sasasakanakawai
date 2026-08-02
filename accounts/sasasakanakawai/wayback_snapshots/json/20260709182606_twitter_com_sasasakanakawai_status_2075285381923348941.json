@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075285330664820736"
+      ]
+    },
+    "author_id": "2066490052587438080",
+    "conversation_id": "2075285381923348941",
+    "created_at": "2026-07-09T18:26:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T19:26:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075285381923348941"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 19,
+          "tag": "自伤"
+        },
+        {
+          "end": 28,
+          "start": 23,
+          "tag": "自傷行為"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LzpJfoJRcf",
+          "end": 52,
+          "expanded_url": "https://x.com/sasasakanakawai/status/2075285381923348941/photo/1",
+          "media_key": "3_2075285330664820736",
+          "start": 29,
+          "url": "https://t.co/LzpJfoJRcf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075285381923348941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "拍了个特别色情的但是我腰臀比好差🤬🤬🤬#自伤 #自傷行為 https://t.co/LzpJfoJRcf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3068,
+        "media_key": "3_2075285330664820736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMzlA03bEAA0-ae.jpg",
+        "width": 3042
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075285330664820736"
+          ]
+        },
+        "author_id": "2066490052587438080",
+        "conversation_id": "2075285381923348941",
+        "created_at": "2026-07-09T18:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T19:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075285381923348941"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "自伤"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "自傷行為"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LzpJfoJRcf",
+              "end": 52,
+              "expanded_url": "https://x.com/sasasakanakawai/status/2075285381923348941/photo/1",
+              "media_key": "3_2075285330664820736",
+              "start": 29,
+              "url": "https://t.co/LzpJfoJRcf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075285381923348941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拍了个特别色情的但是我腰臀比好差🤬🤬🤬#自伤 #自傷行為 https://t.co/LzpJfoJRcf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 互fo请dm 喜欢我可以给我钱",
+        "id": "2066490052587438080",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2075247886464659537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074879135378558976/Wov8JHCC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 25,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      }
+    ]
+  }
+}

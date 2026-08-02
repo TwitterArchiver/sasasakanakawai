@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077382034788601856"
+      ]
+    },
+    "author_id": "2066490052587438080",
+    "conversation_id": "2077382046054555933",
+    "created_at": "2026-07-15T13:17:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T14:17:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077382046054555933"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 14,
+          "start": 11,
+          "tag": "自伤"
+        },
+        {
+          "end": 21,
+          "start": 15,
+          "tag": "地雷系女子"
+        },
+        {
+          "end": 26,
+          "start": 22,
+          "tag": "雰囲気"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t3We8GUuZa",
+          "end": 50,
+          "expanded_url": "https://x.com/sasasakanakawai/status/2077382046054555933/photo/1",
+          "media_key": "3_2077382034788601856",
+          "start": 27,
+          "url": "https://t.co/t3We8GUuZa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077382046054555933",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "伤疤也是我的一部分呀。#自伤 #地雷系女子 #雰囲気 https://t.co/t3We8GUuZa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2077382034788601856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRX9EZaUAAUoue.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077382034788601856"
+          ]
+        },
+        "author_id": "2066490052587438080",
+        "conversation_id": "2077382046054555933",
+        "created_at": "2026-07-15T13:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T14:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077382046054555933"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "自伤"
+            },
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "雰囲気"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t3We8GUuZa",
+              "end": 50,
+              "expanded_url": "https://x.com/sasasakanakawai/status/2077382046054555933/photo/1",
+              "media_key": "3_2077382034788601856",
+              "start": 27,
+              "url": "https://t.co/t3We8GUuZa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077382046054555933",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "伤疤也是我的一部分呀。#自伤 #地雷系女子 #雰囲気 https://t.co/t3We8GUuZa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 互fo互转请dm 喜欢我可怜我心疼我可以给我钱🚪52 伤口定制dm我 @lhhy2711 找不到我来这里",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "lhhy2711"
+              }
+            ]
+          }
+        },
+        "id": "2066490052587438080",
+        "location": "KOSMO",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2077023555649175570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 36,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      }
+    ]
+  }
+}

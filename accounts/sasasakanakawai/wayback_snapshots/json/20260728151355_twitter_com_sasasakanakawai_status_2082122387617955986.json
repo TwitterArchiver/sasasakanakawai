@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066490052587438080",
+    "conversation_id": "2082122387617955986",
+    "created_at": "2026-07-28T15:13:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T16:13:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082122387617955986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1974865605204586498",
+          "start": 3,
+          "username": "kuroki___tomoko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082122387617955986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081804234077724886",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuroki___tomoko: 这个老师我去年就刷到拍的视频了真的很美萌，她可以穿短袖没有疤痕羞耻我觉得特别好呀，怎么有些人自己先犯疤痕应激了🥹一般喜欢把别人归类成特殊人群然后上蹿下跳想指出来的人自己是比较让人担心的特殊人群，没见过人手这么惊奇就往自己脖子上来两刀呗，…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1715,
+        "media_key": "3_2081801903302930433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOQLzRsacAEDaPj.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066490052587438080",
+        "conversation_id": "2082122387617955986",
+        "created_at": "2026-07-28T15:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082122387617955986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1974865605204586498",
+              "start": 3,
+              "username": "kuroki___tomoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082122387617955986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081804234077724886",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuroki___tomoko: 这个老师我去年就刷到拍的视频了真的很美萌，她可以穿短袖没有疤痕羞耻我觉得特别好呀，怎么有些人自己先犯疤痕应激了🥹一般喜欢把别人归类成特殊人群然后上蹿下跳想指出来的人自己是比较让人担心的特殊人群，没见过人手这么惊奇就往自己脖子上来两刀呗，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081801903302930433"
+          ]
+        },
+        "author_id": "1974865605204586498",
+        "conversation_id": "2081804234077724886",
+        "created_at": "2026-07-27T18:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T19:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081804234077724886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CcB62zcfdA",
+              "end": 164,
+              "expanded_url": "https://x.com/kuroki___tomoko/status/2081804234077724886/photo/1",
+              "media_key": "3_2081801903302930433",
+              "start": 141,
+              "url": "https://t.co/CcB62zcfdA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081804234077724886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 53080,
+          "like_count": 605,
+          "quote_count": 8,
+          "reply_count": 55,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "这个老师我去年就刷到拍的视频了真的很美萌，她可以穿短袖没有疤痕羞耻我觉得特别好呀，怎么有些人自己先犯疤痕应激了🥹一般喜欢把别人归类成特殊人群然后上蹿下跳想指出来的人自己是比较让人担心的特殊人群，没见过人手这么惊奇就往自己脖子上来两刀呗，反正一帧视频画面都能克到你活着也没什么意思了 https://t.co/CcB62zcfdA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 同类互fo大欢迎 喜欢我可怜我心疼我可以给我钱🚪52 伤口定制dm",
+        "id": "2066490052587438080",
+        "location": "KOSMO",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2077023555649175570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 54,
+          "like_count": 14,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 153
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 2985,
+          "like_count": 55800,
+          "listed_count": 2,
+          "media_count": 409,
+          "tweet_count": 5045
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false
+      }
+    ]
+  }
+}

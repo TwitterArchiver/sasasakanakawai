@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075299288654209024",
+        "3_2075299305162981376"
+      ]
+    },
+    "author_id": "2066490052587438080",
+    "conversation_id": "2075299316084937152",
+    "created_at": "2026-07-09T19:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T20:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075299316084937152"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 14,
+          "start": 11,
+          "tag": "自伤"
+        },
+        {
+          "end": 18,
+          "start": 15,
+          "tag": "自残"
+        },
+        {
+          "end": 24,
+          "start": 19,
+          "tag": "自傷行為"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HM5ot0znNG",
+          "end": 48,
+          "expanded_url": "https://x.com/sasasakanakawai/status/2075299316084937152/photo/1",
+          "media_key": "3_2075299288654209024",
+          "start": 25,
+          "url": "https://t.co/HM5ot0znNG"
+        },
+        {
+          "display_url": "pic.x.com/HM5ot0znNG",
+          "end": 48,
+          "expanded_url": "https://x.com/sasasakanakawai/status/2075299316084937152/photo/1",
+          "media_key": "3_2075299305162981376",
+          "start": 25,
+          "url": "https://t.co/HM5ot0znNG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075299316084937152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "恢复前和恢复后吧……？#自伤 #自残 #自傷行為 https://t.co/HM5ot0znNG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2897,
+        "media_key": "3_2075299288654209024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMzxtSba4AAIbJ_.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3068,
+        "media_key": "3_2075299305162981376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMzxuP7awAASvu_.jpg",
+        "width": 3042
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075299288654209024",
+            "3_2075299305162981376"
+          ]
+        },
+        "author_id": "2066490052587438080",
+        "conversation_id": "2075299316084937152",
+        "created_at": "2026-07-09T19:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T20:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075299316084937152"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "自伤"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "自残"
+            },
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "自傷行為"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HM5ot0znNG",
+              "end": 48,
+              "expanded_url": "https://x.com/sasasakanakawai/status/2075299316084937152/photo/1",
+              "media_key": "3_2075299288654209024",
+              "start": 25,
+              "url": "https://t.co/HM5ot0znNG"
+            },
+            {
+              "display_url": "pic.x.com/HM5ot0znNG",
+              "end": 48,
+              "expanded_url": "https://x.com/sasasakanakawai/status/2075299316084937152/photo/1",
+              "media_key": "3_2075299305162981376",
+              "start": 25,
+              "url": "https://t.co/HM5ot0znNG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075299316084937152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恢复前和恢复后吧……？#自伤 #自残 #自傷行為 https://t.co/HM5ot0znNG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 互fo请dm 喜欢我可以给我钱 不要骚扰我",
+        "id": "2066490052587438080",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2075247886464659537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 25,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      }
+    ]
+  }
+}

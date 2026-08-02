@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077023544647790592"
+      ]
+    },
+    "author_id": "2066490052587438080",
+    "conversation_id": "2077023555649175570",
+    "created_at": "2026-07-14T13:32:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T14:32:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077023555649175570"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/S1QZiOv1q0",
+          "end": 29,
+          "expanded_url": "https://x.com/sasasakanakawai/status/2077023555649175570/photo/1",
+          "media_key": "3_2077023544647790592",
+          "start": 6,
+          "url": "https://t.co/S1QZiOv1q0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077023555649175570",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "乞讨中…… https://t.co/S1QZiOv1q0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_2077023544647790592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMR6MjasAALa7A.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077023544647790592"
+          ]
+        },
+        "author_id": "2066490052587438080",
+        "conversation_id": "2077023555649175570",
+        "created_at": "2026-07-14T13:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T14:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077023555649175570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S1QZiOv1q0",
+              "end": 29,
+              "expanded_url": "https://x.com/sasasakanakawai/status/2077023555649175570/photo/1",
+              "media_key": "3_2077023544647790592",
+              "start": 6,
+              "url": "https://t.co/S1QZiOv1q0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077023555649175570",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "乞讨中…… https://t.co/S1QZiOv1q0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 互fo互转请dm 喜欢我可怜我心疼我可以给我钱🚪52 伤口定制dm我 @lhhy2711 找不到我来这里",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "lhhy2711"
+              }
+            ]
+          }
+        },
+        "id": "2066490052587438080",
+        "location": "KOSMO",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2075309890269245455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 35,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 88
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,459 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077721486446739456",
+        "3_2077721486446751744",
+        "13_2077721486492942336",
+        "13_2077721486463471616"
+      ],
+      "media_source_tweet_id": [
+        "2077721539429175551",
+        "2077721539429175551",
+        "2077721539429175551",
+        "2077721539429175551"
+      ]
+    },
+    "author_id": "2066490052587438080",
+    "conversation_id": "2077740772586316178",
+    "created_at": "2026-07-16T13:02:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T14:02:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077740772586316178"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 87,
+          "start": 82,
+          "tag": "上海线下"
+        },
+        {
+          "end": 92,
+          "start": 88,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 97,
+          "start": 93,
+          "tag": "门槛妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "371207141",
+          "start": 3,
+          "username": "fpri_va"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uC1mlpDs53",
+          "end": 121,
+          "expanded_url": "https://x.com/fpri_va/status/2077721539429175551/video/1",
+          "media_key": "3_2077721486446739456",
+          "start": 98,
+          "url": "https://t.co/uC1mlpDs53"
+        },
+        {
+          "display_url": "pic.x.com/uC1mlpDs53",
+          "end": 121,
+          "expanded_url": "https://x.com/fpri_va/status/2077721539429175551/video/1",
+          "media_key": "3_2077721486446751744",
+          "start": 98,
+          "url": "https://t.co/uC1mlpDs53"
+        },
+        {
+          "display_url": "pic.x.com/uC1mlpDs53",
+          "end": 121,
+          "expanded_url": "https://x.com/fpri_va/status/2077721539429175551/video/1",
+          "media_key": "13_2077721486492942336",
+          "start": 98,
+          "url": "https://t.co/uC1mlpDs53"
+        },
+        {
+          "display_url": "pic.x.com/uC1mlpDs53",
+          "end": 121,
+          "expanded_url": "https://x.com/fpri_va/status/2077721539429175551/video/1",
+          "media_key": "13_2077721486463471616",
+          "start": 98,
+          "url": "https://t.co/uC1mlpDs53"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077740772586316178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077721539429175551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fpri_va: 接上海爸爸活，纯绿到非绿都接，前模特，170cm 45kg c杯 白虎，中文ok日本語ok，拜托了我急用钱，月线下免🚪，都是面交线上不收\n#上海线下 #爸爸活 #门槛妹 https://t.co/uC1mlpDs53"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2077721486446739456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWMrwXawAAWAm1.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2077721486446751744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWMrwXa8AANwuX.jpg",
+        "width": 768
+      },
+      {
+        "duration_ms": 6733,
+        "height": 720,
+        "media_key": "13_2077721486492942336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077721486492942336/img/WwOT0YqMgwnjQHzf.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077721486492942336/vid/avc1/480x270/xGOwVdEzYVh31nNJ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077721486492942336/vid/avc1/640x360/18_J6bpNwDFicG86.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077721486492942336/vid/avc1/1280x720/HeJqi0oqUYq4OWl7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077721486492942336/pl/z1kAzDOyMLpE2Efq.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 4198,
+        "height": 1280,
+        "media_key": "13_2077721486463471616",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077721486463471616/img/KKd5yaFkljM-1F1o.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077721486463471616/vid/avc1/320x568/CkXShPDx-iM2aynD.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077721486463471616/vid/avc1/480x852/OhUhiQGzHe6gBTAR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077721486463471616/vid/avc1/720x1280/iRoXqK82ed5efUc0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077721486463471616/pl/CX6iXkW1WjGV_iAa.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077721486446739456",
+            "3_2077721486446751744",
+            "13_2077721486492942336",
+            "13_2077721486463471616"
+          ],
+          "media_source_tweet_id": [
+            "2077721539429175551",
+            "2077721539429175551",
+            "2077721539429175551",
+            "2077721539429175551"
+          ]
+        },
+        "author_id": "2066490052587438080",
+        "conversation_id": "2077740772586316178",
+        "created_at": "2026-07-16T13:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077740772586316178"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 82,
+              "tag": "上海线下"
+            },
+            {
+              "end": 92,
+              "start": 88,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 97,
+              "start": 93,
+              "tag": "门槛妹"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "371207141",
+              "start": 3,
+              "username": "fpri_va"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uC1mlpDs53",
+              "end": 121,
+              "expanded_url": "https://x.com/fpri_va/status/2077721539429175551/video/1",
+              "media_key": "3_2077721486446739456",
+              "start": 98,
+              "url": "https://t.co/uC1mlpDs53"
+            },
+            {
+              "display_url": "pic.x.com/uC1mlpDs53",
+              "end": 121,
+              "expanded_url": "https://x.com/fpri_va/status/2077721539429175551/video/1",
+              "media_key": "3_2077721486446751744",
+              "start": 98,
+              "url": "https://t.co/uC1mlpDs53"
+            },
+            {
+              "display_url": "pic.x.com/uC1mlpDs53",
+              "end": 121,
+              "expanded_url": "https://x.com/fpri_va/status/2077721539429175551/video/1",
+              "media_key": "13_2077721486492942336",
+              "start": 98,
+              "url": "https://t.co/uC1mlpDs53"
+            },
+            {
+              "display_url": "pic.x.com/uC1mlpDs53",
+              "end": 121,
+              "expanded_url": "https://x.com/fpri_va/status/2077721539429175551/video/1",
+              "media_key": "13_2077721486463471616",
+              "start": 98,
+              "url": "https://t.co/uC1mlpDs53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077740772586316178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077721539429175551",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fpri_va: 接上海爸爸活，纯绿到非绿都接，前模特，170cm 45kg c杯 白虎，中文ok日本語ok，拜托了我急用钱，月线下免🚪，都是面交线上不收\n#上海线下 #爸爸活 #门槛妹 https://t.co/uC1mlpDs53"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077721486446739456",
+            "3_2077721486446751744",
+            "13_2077721486492942336",
+            "13_2077721486463471616"
+          ]
+        },
+        "author_id": "371207141",
+        "conversation_id": "2077721539429175551",
+        "created_at": "2026-07-16T11:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077721539429175551"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 69,
+              "tag": "上海线下"
+            },
+            {
+              "end": 79,
+              "start": 75,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uC1mlpDs53",
+              "end": 108,
+              "expanded_url": "https://x.com/fpri_va/status/2077721539429175551/video/1",
+              "media_key": "3_2077721486446739456",
+              "start": 85,
+              "url": "https://t.co/uC1mlpDs53"
+            },
+            {
+              "display_url": "pic.x.com/uC1mlpDs53",
+              "end": 108,
+              "expanded_url": "https://x.com/fpri_va/status/2077721539429175551/video/1",
+              "media_key": "3_2077721486446751744",
+              "start": 85,
+              "url": "https://t.co/uC1mlpDs53"
+            },
+            {
+              "display_url": "pic.x.com/uC1mlpDs53",
+              "end": 108,
+              "expanded_url": "https://x.com/fpri_va/status/2077721539429175551/video/1",
+              "media_key": "13_2077721486492942336",
+              "start": 85,
+              "url": "https://t.co/uC1mlpDs53"
+            },
+            {
+              "display_url": "pic.x.com/uC1mlpDs53",
+              "end": 108,
+              "expanded_url": "https://x.com/fpri_va/status/2077721539429175551/video/1",
+              "media_key": "13_2077721486463471616",
+              "start": 85,
+              "url": "https://t.co/uC1mlpDs53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077721539429175551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "接上海爸爸活，纯绿到非绿都接，前模特，170cm 45kg c杯 白虎，中文ok日本語ok，拜托了我急用钱，月线下免🚪，都是面交线上不收\n#上海线下 #爸爸活 #门槛妹 https://t.co/uC1mlpDs53"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 互fo互转请dm 喜欢我可怜我心疼我可以给我钱🚪52 伤口定制dm我 @lhhy2711 来这里看我血图",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "lhhy2711"
+              }
+            ]
+          }
+        },
+        "id": "2066490052587438080",
+        "location": "KOSMO",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2077738340389151063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 45,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 125
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-10T11:58:13.000Z",
+        "description": "死んだ目",
+        "id": "371207141",
+        "location": "あなたの後ろ",
+        "name": "sumire",
+        "pinned_tweet_id": "2077720113919537491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077717398258679808/OgZOSEvB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 255,
+          "like_count": 4,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 76
+        },
+        "url": "",
+        "username": "fpri_va",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076270520929316864"
+      ]
+    },
+    "author_id": "2066490052587438080",
+    "conversation_id": "2076270553493827809",
+    "created_at": "2026-07-12T11:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T12:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076270553493827809"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 14,
+          "tag": "自伤"
+        },
+        {
+          "end": 24,
+          "start": 18,
+          "tag": "地雷系女子"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IVfPPmhntu",
+          "end": 48,
+          "expanded_url": "https://x.com/sasasakanakawai/status/2076270553493827809/photo/1",
+          "media_key": "3_2076270520929316864",
+          "start": 25,
+          "url": "https://t.co/IVfPPmhntu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076270553493827809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就想发这张怎么办。。。。。。#自伤 #地雷系女子 https://t.co/IVfPPmhntu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3542,
+        "media_key": "3_2076270520929316864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBlCcmbcAAWHw0.jpg",
+        "width": 3070
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076270520929316864"
+          ]
+        },
+        "author_id": "2066490052587438080",
+        "conversation_id": "2076270553493827809",
+        "created_at": "2026-07-12T11:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076270553493827809"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "自伤"
+            },
+            {
+              "end": 24,
+              "start": 18,
+              "tag": "地雷系女子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IVfPPmhntu",
+              "end": 48,
+              "expanded_url": "https://x.com/sasasakanakawai/status/2076270553493827809/photo/1",
+              "media_key": "3_2076270520929316864",
+              "start": 25,
+              "url": "https://t.co/IVfPPmhntu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076270553493827809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就想发这张怎么办。。。。。。#自伤 #地雷系女子 https://t.co/IVfPPmhntu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 互fo互转请dm 喜欢我可怜我心疼我可以给我钱 @lhhy2711 找不到我来这里",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "lhhy2711"
+              }
+            ]
+          }
+        },
+        "id": "2066490052587438080",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2075309890269245455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 16,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      }
+    ]
+  }
+}

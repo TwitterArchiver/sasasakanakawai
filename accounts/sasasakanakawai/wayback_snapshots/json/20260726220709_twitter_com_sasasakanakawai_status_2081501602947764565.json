@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066490052587438080",
+    "conversation_id": "2080950566105342155",
+    "created_at": "2026-07-26T22:07:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T23:07:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081501602947764565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2071107896012906496",
+          "start": 0,
+          "username": "qiangujiean"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081501602947764565",
+    "in_reply_to_user_id": "2071107896012906496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081454648343536126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiangujiean 我没药商都是我自己攒的或者开的喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066490052587438080",
+        "conversation_id": "2080950566105342155",
+        "created_at": "2026-07-26T22:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T23:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081501602947764565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2071107896012906496",
+              "start": 0,
+              "username": "qiangujiean"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081501602947764565",
+        "in_reply_to_user_id": "2071107896012906496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081454648343536126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiangujiean 我没药商都是我自己攒的或者开的喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071107896012906496",
+        "conversation_id": "2080950566105342155",
+        "created_at": "2026-07-26T19:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T20:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081454648343536126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2066490052587438080",
+              "start": 0,
+              "username": "sasasakanakawai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081454648343536126",
+        "in_reply_to_user_id": "2066490052587438080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080950566105342155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sasasakanakawai 求药商"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 同类互fo大欢迎 喜欢我可怜我心疼我可以给我钱🚪52 伤口定制dm",
+        "id": "2066490052587438080",
+        "location": "KOSMO",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2077023555649175570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 54,
+          "like_count": 14,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 146
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-28T05:47:59.000Z",
+        "description": "｜MtF｜大学生咪｜19岁｜持证含糖｜可代买糖｜Hrt:2026-3-18｜\ntg:@qianten_zhu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 42,
+                "username": "qianten_zhu"
+              }
+            ]
+          }
+        },
+        "id": "2071107896012906496",
+        "name": "介安🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071108595878641664/wB1cKKmg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 12,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "qiangujiean",
+        "verified": false
+      }
+    ]
+  }
+}

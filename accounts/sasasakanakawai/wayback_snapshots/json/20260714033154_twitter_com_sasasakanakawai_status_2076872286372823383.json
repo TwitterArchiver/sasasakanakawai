@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066490052587438080",
+    "conversation_id": "2076643338800054681",
+    "created_at": "2026-07-14T03:31:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T04:31:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076872286372823383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1852341904676962304",
+          "start": 0,
+          "username": "ypngchng133787"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076872286372823383",
+    "in_reply_to_user_id": "1852341904676962304",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076870968216261002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ypngchng133787 ？？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066490052587438080",
+        "conversation_id": "2076643338800054681",
+        "created_at": "2026-07-14T03:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076872286372823383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1852341904676962304",
+              "start": 0,
+              "username": "ypngchng133787"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076872286372823383",
+        "in_reply_to_user_id": "1852341904676962304",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076870968216261002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ypngchng133787 ？？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852341904676962304",
+        "conversation_id": "2076643338800054681",
+        "created_at": "2026-07-14T03:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076870968216261002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2066490052587438080",
+              "start": 0,
+              "username": "sasasakanakawai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076870968216261002",
+        "in_reply_to_user_id": "2066490052587438080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076643338800054681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sasasakanakawai 我已经看到好几个推特账号使用这个照片了😭😭你们都长一个样吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 互fo互转请dm 喜欢我可怜我心疼我可以给我钱🚪52 伤口定制dm我 @lhhy2711 找不到我来这里",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "lhhy2711"
+              }
+            ]
+          }
+        },
+        "id": "2066490052587438080",
+        "location": "KOSMO",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2075309890269245455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 34,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T13:28:43.000Z",
+        "description": "互fo\n🙂🙃\n\n我是真人，是真人😭😭😭\n别要再冻结我了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/1F9GJ86U…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/1F9GJ86UpY/",
+                "start": 0,
+                "url": "https://t.co/b3wACEllS2"
+              }
+            ]
+          }
+        },
+        "id": "1852341904676962304",
+        "location": "Taiwan",
+        "name": "即兴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852555745356607488/DNpJH8lP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 49,
+          "like_count": 1319,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 169
+        },
+        "url": "https://t.co/b3wACEllS2",
+        "username": "ypngchng133787",
+        "verified": false
+      }
+    ]
+  }
+}

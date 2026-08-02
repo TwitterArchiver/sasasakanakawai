@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077738268666523648",
+        "3_2077738328326303744"
+      ]
+    },
+    "author_id": "2066490052587438080",
+    "conversation_id": "2077738340389151063",
+    "created_at": "2026-07-16T12:53:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T13:53:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077738340389151063"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1nEUGtMnxN",
+          "end": 99,
+          "expanded_url": "https://x.com/sasasakanakawai/status/2077738340389151063/photo/1",
+          "media_key": "3_2077738268666523648",
+          "start": 76,
+          "url": "https://t.co/1nEUGtMnxN"
+        },
+        {
+          "display_url": "pic.x.com/1nEUGtMnxN",
+          "end": 99,
+          "expanded_url": "https://x.com/sasasakanakawai/status/2077738340389151063/photo/1",
+          "media_key": "3_2077738328326303744",
+          "start": 76,
+          "url": "https://t.co/1nEUGtMnxN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077738340389151063",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "随便称呼\n刻板印象餐券妹欧弟弟割手手\n这个号太脆了血图都放主页小号了\n接伤口定制什么都来dm我\n🚪52纯绿＋vx别的没想\n我需要钱需要流量帮我转转谢谢 https://t.co/1nEUGtMnxN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077738268666523648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWb8nAacAAlZlp.jpg",
+        "width": 1535
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2077738328326303744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWcAFQacAAIU9K.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077738268666523648",
+            "3_2077738328326303744"
+          ]
+        },
+        "author_id": "2066490052587438080",
+        "conversation_id": "2077738340389151063",
+        "created_at": "2026-07-16T12:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077738340389151063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1nEUGtMnxN",
+              "end": 99,
+              "expanded_url": "https://x.com/sasasakanakawai/status/2077738340389151063/photo/1",
+              "media_key": "3_2077738268666523648",
+              "start": 76,
+              "url": "https://t.co/1nEUGtMnxN"
+            },
+            {
+              "display_url": "pic.x.com/1nEUGtMnxN",
+              "end": 99,
+              "expanded_url": "https://x.com/sasasakanakawai/status/2077738340389151063/photo/1",
+              "media_key": "3_2077738328326303744",
+              "start": 76,
+              "url": "https://t.co/1nEUGtMnxN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077738340389151063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "随便称呼\n刻板印象餐券妹欧弟弟割手手\n这个号太脆了血图都放主页小号了\n接伤口定制什么都来dm我\n🚪52纯绿＋vx别的没想\n我需要钱需要流量帮我转转谢谢 https://t.co/1nEUGtMnxN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 互fo互转请dm 喜欢我可怜我心疼我可以给我钱🚪52 伤口定制dm我 @lhhy2711 来这里看我血图",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "lhhy2711"
+              }
+            ]
+          }
+        },
+        "id": "2066490052587438080",
+        "location": "KOSMO",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2077023555649175570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 44,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 124
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      }
+    ]
+  }
+}

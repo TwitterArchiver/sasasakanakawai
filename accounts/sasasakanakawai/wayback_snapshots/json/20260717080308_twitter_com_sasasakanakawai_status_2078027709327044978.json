@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077357742109687808",
+        "3_2077357742092902400",
+        "13_2077357742122237952",
+        "3_2077357742097121281"
+      ],
+      "media_source_tweet_id": [
+        "2077357861219565572",
+        "2077357861219565572",
+        "2077357861219565572",
+        "2077357861219565572"
+      ]
+    },
+    "author_id": "2066490052587438080",
+    "conversation_id": "2078027709327044978",
+    "created_at": "2026-07-17T08:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T09:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078027709327044978"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 20,
+          "tag": "天津北京"
+        },
+        {
+          "end": 30,
+          "start": 26,
+          "tag": "江浙沪"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2077351368076242944",
+          "start": 3,
+          "username": "s2qgs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jxMTvGz6on",
+          "end": 102,
+          "expanded_url": "https://x.com/s2qgs/status/2077357861219565572/video/1",
+          "media_key": "3_2077357742109687808",
+          "start": 79,
+          "url": "https://t.co/jxMTvGz6on"
+        },
+        {
+          "display_url": "pic.x.com/jxMTvGz6on",
+          "end": 102,
+          "expanded_url": "https://x.com/s2qgs/status/2077357861219565572/video/1",
+          "media_key": "3_2077357742092902400",
+          "start": 79,
+          "url": "https://t.co/jxMTvGz6on"
+        },
+        {
+          "display_url": "pic.x.com/jxMTvGz6on",
+          "end": 102,
+          "expanded_url": "https://x.com/s2qgs/status/2077357861219565572/video/1",
+          "media_key": "13_2077357742122237952",
+          "start": 79,
+          "url": "https://t.co/jxMTvGz6on"
+        },
+        {
+          "display_url": "pic.x.com/jxMTvGz6on",
+          "end": 102,
+          "expanded_url": "https://x.com/s2qgs/status/2077357861219565572/video/1",
+          "media_key": "3_2077357742097121281",
+          "start": 79,
+          "url": "https://t.co/jxMTvGz6on"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078027709327044978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077357861219565572",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @s2qgs: 这里是里里 坐标 #天津北京 #江浙沪  接爸爸活纯绿半绿 欢迎妹子互转互fo 可以验证 会玩端游steam 无畏契约 三角洲都会一些 https://t.co/jxMTvGz6on"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2077357742109687808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRB3DHbAAAh2Wx.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2077357742092902400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRB3DDa4AAkBrc.jpg",
+        "width": 1280
+      },
+      {
+        "duration_ms": 9230,
+        "height": 1280,
+        "media_key": "13_2077357742122237952",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077357742122237952/img/8rkndeizbRZDVN9f.jpg",
+        "public_metrics": {
+          "view_count": 18
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077357742122237952/vid/avc1/320x568/R4_fr3xaWCTuJFmV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077357742122237952/vid/avc1/480x852/8-PJm8ON-Ej5bVT-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077357742122237952/vid/avc1/720x1280/XqYR9THfZ4aRD80S.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077357742122237952/pl/ZSvQdq4i11pRrAS_.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1390,
+        "media_key": "3_2077357742097121281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRB3DEbQAEyt4D.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077357742109687808",
+            "3_2077357742092902400",
+            "13_2077357742122237952",
+            "3_2077357742097121281"
+          ]
+        },
+        "author_id": "2077351368076242944",
+        "conversation_id": "2077357861219565572",
+        "created_at": "2026-07-15T11:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077357861219565572"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "天津北京"
+            },
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "江浙沪"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jxMTvGz6on",
+              "end": 91,
+              "expanded_url": "https://x.com/s2qgs/status/2077357861219565572/video/1",
+              "media_key": "3_2077357742109687808",
+              "start": 68,
+              "url": "https://t.co/jxMTvGz6on"
+            },
+            {
+              "display_url": "pic.x.com/jxMTvGz6on",
+              "end": 91,
+              "expanded_url": "https://x.com/s2qgs/status/2077357861219565572/video/1",
+              "media_key": "3_2077357742092902400",
+              "start": 68,
+              "url": "https://t.co/jxMTvGz6on"
+            },
+            {
+              "display_url": "pic.x.com/jxMTvGz6on",
+              "end": 91,
+              "expanded_url": "https://x.com/s2qgs/status/2077357861219565572/video/1",
+              "media_key": "13_2077357742122237952",
+              "start": 68,
+              "url": "https://t.co/jxMTvGz6on"
+            },
+            {
+              "display_url": "pic.x.com/jxMTvGz6on",
+              "end": 91,
+              "expanded_url": "https://x.com/s2qgs/status/2077357861219565572/video/1",
+              "media_key": "3_2077357742097121281",
+              "start": 68,
+              "url": "https://t.co/jxMTvGz6on"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077357861219565572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "这里是里里 坐标 #天津北京 #江浙沪  接爸爸活纯绿半绿 欢迎妹子互转互fo 可以验证 会玩端游steam 无畏契约 三角洲都会一些 https://t.co/jxMTvGz6on"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077357742109687808",
+            "3_2077357742092902400",
+            "13_2077357742122237952",
+            "3_2077357742097121281"
+          ],
+          "media_source_tweet_id": [
+            "2077357861219565572",
+            "2077357861219565572",
+            "2077357861219565572",
+            "2077357861219565572"
+          ]
+        },
+        "author_id": "2066490052587438080",
+        "conversation_id": "2078027709327044978",
+        "created_at": "2026-07-17T08:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T09:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078027709327044978"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "天津北京"
+            },
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "江浙沪"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2077351368076242944",
+              "start": 3,
+              "username": "s2qgs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jxMTvGz6on",
+              "end": 102,
+              "expanded_url": "https://x.com/s2qgs/status/2077357861219565572/video/1",
+              "media_key": "3_2077357742109687808",
+              "start": 79,
+              "url": "https://t.co/jxMTvGz6on"
+            },
+            {
+              "display_url": "pic.x.com/jxMTvGz6on",
+              "end": 102,
+              "expanded_url": "https://x.com/s2qgs/status/2077357861219565572/video/1",
+              "media_key": "3_2077357742092902400",
+              "start": 79,
+              "url": "https://t.co/jxMTvGz6on"
+            },
+            {
+              "display_url": "pic.x.com/jxMTvGz6on",
+              "end": 102,
+              "expanded_url": "https://x.com/s2qgs/status/2077357861219565572/video/1",
+              "media_key": "13_2077357742122237952",
+              "start": 79,
+              "url": "https://t.co/jxMTvGz6on"
+            },
+            {
+              "display_url": "pic.x.com/jxMTvGz6on",
+              "end": 102,
+              "expanded_url": "https://x.com/s2qgs/status/2077357861219565572/video/1",
+              "media_key": "3_2077357742097121281",
+              "start": 79,
+              "url": "https://t.co/jxMTvGz6on"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078027709327044978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077357861219565572",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @s2qgs: 这里是里里 坐标 #天津北京 #江浙沪  接爸爸活纯绿半绿 欢迎妹子互转互fo 可以验证 会玩端游steam 无畏契约 三角洲都会一些 https://t.co/jxMTvGz6on"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 互fo互转请dm 喜欢我可怜我心疼我可以给我钱🚪52 伤口定制dm我 @lhhy2711 来这里看我血图",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "lhhy2711"
+              }
+            ]
+          }
+        },
+        "id": "2066490052587438080",
+        "location": "KOSMO",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2077738340389151063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 49,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 128
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-15T11:16:11.000Z",
+        "description": "",
+        "id": "2077351368076242944",
+        "name": "是里里",
+        "pinned_tweet_id": "2077357861219565572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077352172438835200/ElVfWQYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "s2qgs",
+        "verified": false
+      }
+    ]
+  }
+}
