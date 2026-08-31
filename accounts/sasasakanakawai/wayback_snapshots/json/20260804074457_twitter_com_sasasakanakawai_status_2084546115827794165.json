@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066490052587438080",
+    "conversation_id": "2084546115827794165",
+    "created_at": "2026-08-04T07:44:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T08:44:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084546115827794165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1877154020021637120",
+          "start": 3,
+          "username": "demoliti0nl0v3r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084546115827794165",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3272
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083977036037832940",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @demoliti0nl0v3r: \"omg what happened to ur arm??\" nd the scars r all straight horizontal lines like take a wild ass guess u idiot"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066490052587438080",
+        "conversation_id": "2084546115827794165",
+        "created_at": "2026-08-04T07:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084546115827794165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1877154020021637120",
+              "start": 3,
+              "username": "demoliti0nl0v3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084546115827794165",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3272
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083977036037832940",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @demoliti0nl0v3r: \"omg what happened to ur arm??\" nd the scars r all straight horizontal lines like take a wild ass guess u idiot"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877154020021637120",
+        "conversation_id": "2083977036037832940",
+        "created_at": "2026-08-02T18:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T19:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083977036037832940"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083977036037832940",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 303,
+          "impression_count": 102605,
+          "like_count": 14119,
+          "quote_count": 75,
+          "reply_count": 47,
+          "retweet_count": 3272
+        },
+        "reply_settings": "everyone",
+        "text": "\"omg what happened to ur arm??\" nd the scars r all straight horizontal lines like take a wild ass guess u idiot"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 同类互fo大欢迎 喜欢我可怜我心疼我可以给我钱🚪52 伤口定制dm",
+        "id": "2066490052587438080",
+        "location": "KOSMO",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2077023555649175570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 57,
+          "like_count": 28,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 196
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-09T00:42:56.000Z",
+        "description": "bruises r back in style .ᐟ         ִֶָ. ..𓂃 ࣪ ִֶָ🪽་༘࿐        #1 teenage whore   𖦹        16 !         #cecitwt #james27twt #novatwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 102,
+                "tag": "cecitwt"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "tag": "james27twt"
+              },
+              {
+                "end": 131,
+                "start": 123,
+                "tag": "novatwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vivicaz.straw.page",
+                "end": 23,
+                "expanded_url": "https://vivicaz.straw.page",
+                "start": 0,
+                "url": "https://t.co/MHMrvGkk6x"
+              }
+            ]
+          }
+        },
+        "id": "1877154020021637120",
+        "location": "gw:45 ugw:37",
+        "name": "⦻ vivica !! 𝄞",
+        "pinned_tweet_id": "2073883694880665929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084118203093934080/EcyvzHf7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 1793,
+          "like_count": 79828,
+          "listed_count": 19,
+          "media_count": 2340,
+          "tweet_count": 28868
+        },
+        "url": "https://t.co/MHMrvGkk6x",
+        "username": "demoliti0nl0v3r",
+        "verified": false
+      }
+    ]
+  }
+}

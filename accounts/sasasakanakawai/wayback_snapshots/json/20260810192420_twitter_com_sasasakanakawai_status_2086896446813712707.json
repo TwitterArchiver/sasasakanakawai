@@ -1,0 +1,812 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086614402095058944"
+      ],
+      "media_source_tweet_id": [
+        "2086774560339234863"
+      ]
+    },
+    "author_id": "2066490052587438080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1445358176312782848",
+          "name": "Aespa"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1451606775610834944",
+          "name": "Winter"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1445358176312782848",
+          "name": "Aespa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1451606775610834944",
+          "name": "Winter"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Hip-Hop",
+          "id": "1014161314971709441",
+          "name": "K-hip hop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Hip-Hop",
+          "id": "1014161314971709441",
+          "name": "K-hip hop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1445358176312782848",
+          "name": "Aespa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1451606775610834944",
+          "name": "Winter"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2086896446813712707",
+    "created_at": "2026-08-10T19:24:20.000Z",
+    "display_text_range": [
+      0,
+      137
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T20:24:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086896446813712707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1476599262490284039",
+          "start": 3,
+          "username": "TOP100KPOP"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Voting for the TOP 100 – K-POP FEMALE VOCALISTS is now open!!!The winning vocalist will receive a physical trophy! VOTE A LOT! Check out the nominees: AHIN (MOMOLAND), AHYEON (BABYMONSTER), AILEE, ASA (BABYMONSTER), BELLE (KISS OF LIFE), BOMI (APINK), CARMEN (HEARTS2HEARTS), CHAEHYUN (KEP1ER), CHAERYEONG (ITZY), CHAEWON (LE SSERAFIM), CHANELLE MOON (FIFTY FIFTY), CHIQUITA (BABYMONSTER), CHOERRY […]",
+          "display_url": "dabeme.com.br/kpop/",
+          "end": 113,
+          "expanded_url": "https://www.dabeme.com.br/kpop/",
+          "start": 90,
+          "status": 200,
+          "title": "TOP 100 – FEMALE K-POP VOCALISTS",
+          "unwound_url": "https://www.dabeme.com.br/kpop/",
+          "url": "https://t.co/T9XTCJZJeR"
+        },
+        {
+          "display_url": "pic.x.com/ykLJWxV6iw",
+          "end": 137,
+          "expanded_url": "https://x.com/TOP100KPOP/status/2086774560339234863/photo/1",
+          "media_key": "3_2086614402095058944",
+          "start": 114,
+          "url": "https://t.co/ykLJWxV6iw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086896446813712707",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2086614402095058944"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 367
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086774560339234863",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TOP100KPOP: WINTER (AESPA) is nominated for the Best Female Vocalist Award 🏆\n\n👉 VOTE: https://t.co/T9XTCJZJeR https://t.co/ykLJWxV6iw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2086614402095058944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPUkvkwXEAAFLEQ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086614402095058944"
+          ]
+        },
+        "author_id": "1476599262490284039",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1445358176312782848",
+              "name": "Aespa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1451606775610834944",
+              "name": "Winter"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1445358176312782848",
+              "name": "Aespa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1451606775610834944",
+              "name": "Winter"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Hip-Hop",
+              "id": "1014161314971709441",
+              "name": "K-hip hop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Hip-Hop",
+              "id": "1014161314971709441",
+              "name": "K-hip hop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1445358176312782848",
+              "name": "Aespa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1451606775610834944",
+              "name": "Winter"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2086774560339234863",
+        "created_at": "2026-08-10T11:20:00.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T12:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086774560339234863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Voting for the TOP 100 – K-POP FEMALE VOCALISTS is now open!!!The winning vocalist will receive a physical trophy! VOTE A LOT! Check out the nominees: AHIN (MOMOLAND), AHYEON (BABYMONSTER), AILEE, ASA (BABYMONSTER), BELLE (KISS OF LIFE), BOMI (APINK), CARMEN (HEARTS2HEARTS), CHAEHYUN (KEP1ER), CHAERYEONG (ITZY), CHAEWON (LE SSERAFIM), CHANELLE MOON (FIFTY FIFTY), CHIQUITA (BABYMONSTER), CHOERRY […]",
+              "display_url": "dabeme.com.br/kpop/",
+              "end": 97,
+              "expanded_url": "https://www.dabeme.com.br/kpop/",
+              "start": 74,
+              "status": 200,
+              "title": "TOP 100 – FEMALE K-POP VOCALISTS",
+              "unwound_url": "https://www.dabeme.com.br/kpop/",
+              "url": "https://t.co/T9XTCJZJeR"
+            },
+            {
+              "display_url": "pic.x.com/ykLJWxV6iw",
+              "end": 121,
+              "expanded_url": "https://x.com/TOP100KPOP/status/2086774560339234863/photo/1",
+              "media_key": "3_2086614402095058944",
+              "start": 98,
+              "url": "https://t.co/ykLJWxV6iw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086774560339234863",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086614402095058944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 27583,
+          "like_count": 1580,
+          "quote_count": 9,
+          "reply_count": 12,
+          "retweet_count": 367
+        },
+        "reply_settings": "everyone",
+        "text": "WINTER (AESPA) is nominated for the Best Female Vocalist Award 🏆\n\n👉 VOTE: https://t.co/T9XTCJZJeR https://t.co/ykLJWxV6iw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086614402095058944"
+          ],
+          "media_source_tweet_id": [
+            "2086774560339234863"
+          ]
+        },
+        "author_id": "2066490052587438080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1445358176312782848",
+              "name": "Aespa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1451606775610834944",
+              "name": "Winter"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1445358176312782848",
+              "name": "Aespa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1451606775610834944",
+              "name": "Winter"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Hip-Hop",
+              "id": "1014161314971709441",
+              "name": "K-hip hop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Hip-Hop",
+              "id": "1014161314971709441",
+              "name": "K-hip hop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1445358176312782848",
+              "name": "Aespa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1451606775610834944",
+              "name": "Winter"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2086896446813712707",
+        "created_at": "2026-08-10T19:24:20.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T20:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086896446813712707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1476599262490284039",
+              "start": 3,
+              "username": "TOP100KPOP"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Voting for the TOP 100 – K-POP FEMALE VOCALISTS is now open!!!The winning vocalist will receive a physical trophy! VOTE A LOT! Check out the nominees: AHIN (MOMOLAND), AHYEON (BABYMONSTER), AILEE, ASA (BABYMONSTER), BELLE (KISS OF LIFE), BOMI (APINK), CARMEN (HEARTS2HEARTS), CHAEHYUN (KEP1ER), CHAERYEONG (ITZY), CHAEWON (LE SSERAFIM), CHANELLE MOON (FIFTY FIFTY), CHIQUITA (BABYMONSTER), CHOERRY […]",
+              "display_url": "dabeme.com.br/kpop/",
+              "end": 113,
+              "expanded_url": "https://www.dabeme.com.br/kpop/",
+              "start": 90,
+              "status": 200,
+              "title": "TOP 100 – FEMALE K-POP VOCALISTS",
+              "unwound_url": "https://www.dabeme.com.br/kpop/",
+              "url": "https://t.co/T9XTCJZJeR"
+            },
+            {
+              "display_url": "pic.x.com/ykLJWxV6iw",
+              "end": 137,
+              "expanded_url": "https://x.com/TOP100KPOP/status/2086774560339234863/photo/1",
+              "media_key": "3_2086614402095058944",
+              "start": 114,
+              "url": "https://t.co/ykLJWxV6iw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086896446813712707",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086614402095058944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 367
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086774560339234863",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TOP100KPOP: WINTER (AESPA) is nominated for the Best Female Vocalist Award 🏆\n\n👉 VOTE: https://t.co/T9XTCJZJeR https://t.co/ykLJWxV6iw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 同类互fo大欢迎 喜欢我可怜我心疼我可以给我钱🚪52 伤口定制dm",
+        "id": "2066490052587438080",
+        "is_identity_verified": false,
+        "location": "KOSMO",
+        "most_recent_tweet_id": "2086896446813712707",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2077023555649175570",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066490052587438080/1783612769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 60,
+          "like_count": 48,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 233
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T17:01:24.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dabeme.com.br/kpop/",
+                "end": 23,
+                "expanded_url": "https://www.dabeme.com.br/kpop/",
+                "start": 0,
+                "url": "https://t.co/tGnfe8dfSC"
+              }
+            ]
+          }
+        },
+        "id": "1476599262490284039",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086896377846698192",
+        "name": "TOP 100",
+        "pinned_tweet_id": "2086836837859922419",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476599262490284039/1641430342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1478891712454049793/3aHoqDa8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2782553,
+          "following_count": 0,
+          "like_count": 44,
+          "listed_count": 135,
+          "media_count": 38412,
+          "tweet_count": 51761
+        },
+        "url": "https://t.co/tGnfe8dfSC",
+        "username": "TOP100KPOP",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

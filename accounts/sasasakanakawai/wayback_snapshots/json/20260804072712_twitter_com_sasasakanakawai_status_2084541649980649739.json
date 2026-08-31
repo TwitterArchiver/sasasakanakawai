@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084541627344068608"
+      ]
+    },
+    "author_id": "2066490052587438080",
+    "conversation_id": "2084541649980649739",
+    "created_at": "2026-08-04T07:27:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T08:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084541649980649739"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pa7LSVJwtB",
+          "end": 33,
+          "expanded_url": "https://x.com/sasasakanakawai/status/2084541649980649739/photo/1",
+          "media_key": "3_2084541627344068608",
+          "start": 10,
+          "url": "https://t.co/pa7LSVJwtB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084541649980649739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好像被伤疤绑起来了 https://t.co/pa7LSVJwtB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2084541627344068608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3HkNFboAApq5_.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084541627344068608"
+          ]
+        },
+        "author_id": "2066490052587438080",
+        "conversation_id": "2084541649980649739",
+        "created_at": "2026-08-04T07:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084541649980649739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pa7LSVJwtB",
+              "end": 33,
+              "expanded_url": "https://x.com/sasasakanakawai/status/2084541649980649739/photo/1",
+              "media_key": "3_2084541627344068608",
+              "start": 10,
+              "url": "https://t.co/pa7LSVJwtB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084541649980649739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好像被伤疤绑起来了 https://t.co/pa7LSVJwtB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 同类互fo大欢迎 喜欢我可怜我心疼我可以给我钱🚪52 伤口定制dm",
+        "id": "2066490052587438080",
+        "location": "KOSMO",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2077023555649175570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 56,
+          "like_count": 27,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 193
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083905138817925121"
+      ]
+    },
+    "author_id": "2066490052587438080",
+    "conversation_id": "2083905154252943832",
+    "created_at": "2026-08-02T13:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083905154252943832"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CgV9Su7jho",
+          "end": 39,
+          "expanded_url": "https://x.com/sasasakanakawai/status/2083905154252943832/photo/1",
+          "media_key": "3_2083905138817925121",
+          "start": 16,
+          "url": "https://t.co/CgV9Su7jho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083905154252943832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想粉发了。感觉好陌生。。呃呃啊 https://t.co/CgV9Su7jho"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 812,
+        "media_key": "3_2083905138817925121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuErsjagAE5Gk1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083905138817925121"
+          ]
+        },
+        "author_id": "2066490052587438080",
+        "conversation_id": "2083905154252943832",
+        "created_at": "2026-08-02T13:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083905154252943832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CgV9Su7jho",
+              "end": 39,
+              "expanded_url": "https://x.com/sasasakanakawai/status/2083905154252943832/photo/1",
+              "media_key": "3_2083905138817925121",
+              "start": 16,
+              "url": "https://t.co/CgV9Su7jho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083905154252943832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想粉发了。感觉好陌生。。呃呃啊 https://t.co/CgV9Su7jho"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 同类互fo大欢迎 喜欢我可怜我心疼我可以给我钱🚪52 伤口定制dm",
+        "id": "2066490052587438080",
+        "location": "KOSMO",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2077023555649175570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 55,
+          "like_count": 14,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 172
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      }
+    ]
+  }
+}

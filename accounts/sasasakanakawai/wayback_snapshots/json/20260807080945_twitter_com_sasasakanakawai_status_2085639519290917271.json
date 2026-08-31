@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066490052587438080",
+    "conversation_id": "2085639519290917271",
+    "created_at": "2026-08-07T08:09:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T09:09:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085639519290917271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2070513982599987201",
+          "start": 3,
+          "username": "emoemo088"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085639519290917271",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085023153810710684",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @emoemo088: 我发现原来推上真的有一群人觉得只要女生注册了推特帐号就是可以免费给操的意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066490052587438080",
+        "conversation_id": "2085639519290917271",
+        "created_at": "2026-08-07T08:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T09:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085639519290917271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2070513982599987201",
+              "start": 3,
+              "username": "emoemo088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085639519290917271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085023153810710684",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @emoemo088: 我发现原来推上真的有一群人觉得只要女生注册了推特帐号就是可以免费给操的意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070513982599987201",
+        "conversation_id": "2085023153810710684",
+        "created_at": "2026-08-05T15:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085023153810710684"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085023153810710684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 433408,
+          "like_count": 4042,
+          "quote_count": 5,
+          "reply_count": 850,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "我发现原来推上真的有一群人觉得只要女生注册了推特帐号就是可以免费给操的意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 同类互fo大欢迎 喜欢我可怜我心疼我可以给我钱🚪52 伤口定制dm",
+        "id": "2066490052587438080",
+        "location": "KOSMO",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2077023555649175570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 58,
+          "like_count": 36,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 213
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-26T14:27:23.000Z",
+        "description": "当朋友圈发了 小号@ckyoa2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "ckyoa2"
+              }
+            ]
+          }
+        },
+        "id": "2070513982599987201",
+        "location": "你心里",
+        "name": "ck",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084532315032899585/cCnFudyk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3015,
+          "following_count": 3,
+          "like_count": 59,
+          "listed_count": 5,
+          "media_count": 23,
+          "tweet_count": 90
+        },
+        "url": "",
+        "username": "emoemo088",
+        "verified": false
+      }
+    ]
+  }
+}

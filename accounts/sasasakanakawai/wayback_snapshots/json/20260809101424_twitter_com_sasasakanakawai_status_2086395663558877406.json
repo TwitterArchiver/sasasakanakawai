@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2066490052587438080",
+    "conversation_id": "2086395663558877406",
+    "created_at": "2026-08-09T10:14:24.000Z",
+    "display_text_range": [
+      0,
+      84
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T11:14:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086395663558877406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1714179188746600448",
+          "start": 3,
+          "username": "Rinn_3x3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086395663558877406",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1920
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085733337927418031",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rinn_3x3: When are people gonna accept the fact that cutting is a real addiction"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066490052587438080",
+        "conversation_id": "2086395663558877406",
+        "created_at": "2026-08-09T10:14:24.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T11:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086395663558877406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1714179188746600448",
+              "start": 3,
+              "username": "Rinn_3x3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086395663558877406",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1920
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085733337927418031",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rinn_3x3: When are people gonna accept the fact that cutting is a real addiction"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714179188746600448",
+        "conversation_id": "2085733337927418031",
+        "created_at": "2026-08-07T14:22:33.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085733337927418031"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085733337927418031",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 153,
+          "impression_count": 52850,
+          "like_count": 7999,
+          "quote_count": 27,
+          "reply_count": 36,
+          "retweet_count": 1920
+        },
+        "reply_settings": "everyone",
+        "text": "When are people gonna accept the fact that cutting is a real addiction"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 同类互fo大欢迎 喜欢我可怜我心疼我可以给我钱🚪52 伤口定制dm",
+        "id": "2066490052587438080",
+        "is_identity_verified": false,
+        "location": "KOSMO",
+        "most_recent_tweet_id": "2086395663558877406",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2077023555649175570",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066490052587438080/1783612769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 60,
+          "like_count": 40,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 220
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-17T07:19:24.000Z",
+        "description": "╰┈➤ ℎ𝑒 / ℎ𝑖𝑚 || 𝑑𝑒𝑝𝑟𝑒𝑠𝑠𝑖𝑜𝑛 + 𝑠𝑜𝑐𝑖𝑎𝑙 𝑎𝑛𝑥𝑖𝑒𝑡𝑦 𝑠𝑢𝑠𝑝𝑒𝑐𝑡 𓆩♡𓆪\n       °❀⋆.ೃ࿔*:･ 𝑛𝑑𝑛𝑖\n        ꒰ঌᰔᩚ໒꒱ 𝑖𝑓𝑏 ♡",
+        "id": "1714179188746600448",
+        "is_identity_verified": false,
+        "location": "bmi:16s gbmi:14s໒꒰ྀིっ˕ -｡꒱ྀི১",
+        "most_recent_tweet_id": "2086265631918448873",
+        "name": "𝐫𝐢𝐧𝐧 🔪🍽𝐭𝐰𝐭⋆. ୨୧˚⋆",
+        "pinned_tweet_id": "2063792038743855482",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1714179188746600448/1779784069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059192702156349440/hCfzj63f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2024,
+          "following_count": 1911,
+          "like_count": 38002,
+          "listed_count": 12,
+          "media_count": 302,
+          "tweet_count": 2562
+        },
+        "url": "",
+        "username": "Rinn_3x3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

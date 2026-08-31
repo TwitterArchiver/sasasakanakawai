@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2084091293844537345"
+      ],
+      "media_source_tweet_id": [
+        "2084091342750134285"
+      ]
+    },
+    "author_id": "2066490052587438080",
+    "conversation_id": "2084311778096513390",
+    "created_at": "2026-08-03T16:13:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T17:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084311778096513390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1121611652036583426",
+          "start": 3,
+          "username": "pourlesjolies"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YomwGugMSW",
+          "end": 52,
+          "expanded_url": "https://x.com/pourlesjolies/status/2084091342750134285/video/1",
+          "media_key": "13_2084091293844537345",
+          "start": 29,
+          "url": "https://t.co/YomwGugMSW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084311778096513390",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5620
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084091342750134285",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pourlesjolies: WINTER??? https://t.co/YomwGugMSW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1823,
+        "height": 1080,
+        "media_key": "13_2084091293844537345",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084091293844537345/img/rnYYlSLAFK_ND_fp.jpg",
+        "public_metrics": {
+          "view_count": 29290
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084091293844537345/vid/avc1/1440x1080/IRZiKjpD7FdBeipY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084091293844537345/pl/NWGghMjIO7AZrnb4.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084091293844537345/vid/avc1/360x270/k1m3aI_eAZBpXEYN.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084091293844537345/vid/avc1/480x360/5fjakzExQPpqFnvm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084091293844537345/vid/avc1/960x720/MLrYyaY-icP9lK7s.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084091293844537345"
+          ]
+        },
+        "author_id": "1121611652036583426",
+        "conversation_id": "2084091342750134285",
+        "created_at": "2026-08-03T01:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T02:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084091342750134285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YomwGugMSW",
+              "end": 33,
+              "expanded_url": "https://x.com/pourlesjolies/status/2084091342750134285/video/1",
+              "media_key": "13_2084091293844537345",
+              "start": 10,
+              "url": "https://t.co/YomwGugMSW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084091342750134285",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1279,
+          "impression_count": 173283,
+          "like_count": 18746,
+          "quote_count": 225,
+          "reply_count": 22,
+          "retweet_count": 5620
+        },
+        "reply_settings": "everyone",
+        "text": "WINTER??? https://t.co/YomwGugMSW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084091293844537345"
+          ],
+          "media_source_tweet_id": [
+            "2084091342750134285"
+          ]
+        },
+        "author_id": "2066490052587438080",
+        "conversation_id": "2084311778096513390",
+        "created_at": "2026-08-03T16:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084311778096513390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1121611652036583426",
+              "start": 3,
+              "username": "pourlesjolies"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YomwGugMSW",
+              "end": 52,
+              "expanded_url": "https://x.com/pourlesjolies/status/2084091342750134285/video/1",
+              "media_key": "13_2084091293844537345",
+              "start": 29,
+              "url": "https://t.co/YomwGugMSW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084311778096513390",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5620
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084091342750134285",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pourlesjolies: WINTER??? https://t.co/YomwGugMSW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 同类互fo大欢迎 喜欢我可怜我心疼我可以给我钱🚪52 伤口定制dm",
+        "id": "2066490052587438080",
+        "location": "KOSMO",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2077023555649175570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 56,
+          "like_count": 16,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 188
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-26T03:07:11.000Z",
+        "description": "Open for requests — DM ♡",
+        "id": "1121611652036583426",
+        "name": "ْ",
+        "pinned_tweet_id": "2084204059083395074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022342345048342528/GcsOuQcc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664979,
+          "following_count": 20,
+          "like_count": 624,
+          "listed_count": 2784,
+          "media_count": 3797,
+          "tweet_count": 3867
+        },
+        "url": "",
+        "username": "pourlesjolies",
+        "verified": true
+      }
+    ]
+  }
+}
